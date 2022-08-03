@@ -1,0 +1,78 @@
+header{
+    background-color: rgb(248, 28, 168);
+    width: 98%;
+    height: 30px;
+    position: fixed;
+
+}
+span{
+    width:5%;
+    height: 10%;
+    color: antiquewhite;
+   
+}
+.section1{
+    margin-left: 50%;
+    position: fixed;
+
+
+}
+.section2{
+    margin-left: 58%;
+    position: fixed;
+
+
+}
+.section3{
+    margin-left: 66%;
+    position: fixed;
+
+
+}
+
+body{
+    background-color: rgb(233, 129, 216);
+}
+.a1{
+    text-decoration: none;
+    color: azure;
+}
+.a2{
+    text-decoration: none;
+    color: rgb(248, 28, 168);
+    font-size: 40px;
+
+}
+.div-card{
+    
+    width: 300px;
+    height: 300px;
+    align-content: center;
+    
+    
+}
+#div1{
+    background-image: url("winter1.jpg");
+    margin-left: 15%;
+    margin-top: 15%;
+
+
+}
+#div2{
+    background-image: url("summer1.jpg");
+    margin-left: 40%;
+    margin-top: -22%;
+    
+}
+#div3{
+    background-image: url("rain1.jpg");
+    margin-left: 65%;
+    margin-top: -22%;
+    
+}
+img{
+    width: 80%;
+    height:80%;
+    margin-left: 10%;
+
+}
